@@ -21,7 +21,7 @@
     }
     function Main() {
         console.log("Game Started!");
-        helloLabel = new createjs.Text("Hello Everyone!", "40px Times New Roman", "#234121");
+        helloLabel = new createjs.Text("Goodbye Everyone!", "40px Times New Roman", "#234121");
         helloLabel.x = 100;
         helloLabel.y = 100;
         stage.addChild(helloLabel);
