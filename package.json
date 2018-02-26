@@ -1,0 +1,19 @@
+{
+  "name": "balloosbananas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ronnel21/Balloos-Bananas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ronnel21/Balloos-Bananas/issues"
+  },
+  "homepage": "https://github.com/Ronnel21/Balloos-Bananas#readme"
+}
