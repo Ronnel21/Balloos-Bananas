@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Ronnel21/Balloos-Bananas/issues"
   },
-  "homepage": "https://github.com/Ronnel21/Balloos-Bananas#readme"
+  "homepage": "https://github.com/Ronnel21/Balloos-Bananas#readme",
+  "devDependencies": {
+    "@types/easeljs": "^1.0.0"
+  }
 }
